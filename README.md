@@ -1,4 +1,4 @@
-# cookie-ninja-custom-rules
+# Custom Nordic Ninja Cookie Rules
 Custom rules for the browser extension _Ninja Cookie_ - mostly for nordic sites
 
 
